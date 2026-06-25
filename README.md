@@ -1,4 +1,4 @@
-# 🛒 Kulies — E-Commerce Product Listing App
+kjnkdsdsds# 🛒 Kulies — E-Commerce Product Listing App
 
 A fully functional e-commerce product listing application built with React and Redux Toolkit. Features dynamic filtering, sorting, cart management, wishlist, and persistent state across page refreshes.
 
